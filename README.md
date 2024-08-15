@@ -5,6 +5,6 @@ This project is a Python-based sentiment analysis tool for IMDb movie reviews. I
 
 The goal of this project is to analyze movie reviews from IMDb and determine whether each review has a positive or negative sentiment.
 
-#Dataset:
+#Dataset: https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews
 
 The dataset consists of 3,000 IMDb movie reviews. Each review is labeled as either positive or negative.
